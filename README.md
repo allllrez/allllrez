@@ -10,18 +10,11 @@
 
 - 🌱 I’m currently learning **Go,and other skills..**
 
-- 👯 I’m looking to collaborate on [Your Fav Project](https://github.com/RasaHQ/rasa)
+- 💻 I design and explain tech & gadgets related content on [Instagram/TechMobie](https://www.instagram.com/codera.dev/)
 
+- 💬 Ask me about **PHP, Laravel, Javascript and React js**
 
-//- 👨‍💻 All of my projects are available at [Your Portfolio](https://srisatyalokesh.github.io/)
-
-- 📝 I regularly write articles on [Your Website](https://mobie.tech/)
-
-- 💻 I design and explain tech & gadgets related content on [Instagram/TechMobie](https://www.instagram.com/tech.mobie/)
-
-- 💬 Ask me about **python, chatbots, data analysis and visualisation**
-
-- 📄 Chekout my Resume here -  [Your Resume](https://rxresu.me/)
+- 📄 Chekout my Resume here -  [Your Resume](https://code-ra.ir/)
 
 <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
 
