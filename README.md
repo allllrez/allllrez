@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Javascript and React js**
 
-- 📄 Chekout my Resume here -  [Your Resume](https://code-ra.ir/)
+- 📄 Chekout my Resume here -  [Reza Annabestani](https://code-ra.ir/)
 
 
 
