@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer+at+Sunnyr+Co;PHP+and+React+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer+at+Sunnyr+Co;Backend+Developer;" />
 </p>
 
 
