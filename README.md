@@ -46,7 +46,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/SriSatyaLokesh">
+<a href="https://github.com/allllrez">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=allllrez&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="allllrez" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=allllrez&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="allllrez" height=150px />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allllrez&theme=nightowl&hide_border=true" alt="allllrez"/>
 </a>
