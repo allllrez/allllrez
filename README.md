@@ -16,7 +16,7 @@
 
 - 📄 Chekout my Resume here -  [Your Resume](https://code-ra.ir/)
 
-<img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
+
 
 
 ### 🛠 &nbsp;Tech Stack
