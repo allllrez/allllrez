@@ -1,7 +1,6 @@
 ## Hey 👋, This is Reza Annabestani
 [![Gmail Badge](https://img.shields.io/badge/-anabestanireza@yahoo.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anabestanireza@yahoo.com)](mailto:anabestanireza@yahoo.com) 
 [![Linkedin Badge](https://img.shields.io/badge/reza-annabestani-9336b7212-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-annabestani-9336b7212/)](https://www.linkedin.com/in/reza-annabestani-9336b7212/)
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [![Github Badge](https://img.shields.io/badge/-allllrez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/allllrez/)](https://www.github.com/allllrez/) 
 [![Twitter Badge](https://img.shields.io/badge/-rezanbsweb-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rezanbsweb/)](https://www.twitter.com/rezanbsweb/) 
 ## Some of my Github Stats
