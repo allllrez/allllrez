@@ -1,4 +1,14 @@
 ## Hey 👋, This is Reza Annabestani
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,git,css" />
+  </a>
+</p>
+
+
 [![Gmail Badge](https://img.shields.io/badge/-anabestanireza@yahoo.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anabestanireza@yahoo.com)](mailto:anabestanireza@yahoo.com) 
 [![Linkedin Badge](https://img.shields.io/badge/reza-annabestani-9336b7212-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-annabestani-9336b7212/)](https://www.linkedin.com/in/reza-annabestani-9336b7212/)
 [![Github Badge](https://img.shields.io/badge/-allllrez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/allllrez/)](https://www.github.com/allllrez/) 
