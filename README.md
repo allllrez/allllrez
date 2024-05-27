@@ -57,7 +57,7 @@
 
 <p align="center">
 <a href="rezaannabestany@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/reza-annabestani-9336b7212"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/reza-annabestani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/codera.dev"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.twitter.com/codewithcodera"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
